@@ -10,12 +10,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat";
 }
 
-h2 {
-    font-size: 3rem;
-    line-height: 1.5;
-    
-}
-
 h3 {
     font-size: 1.5rem;
 }
@@ -37,6 +31,11 @@ p {
   font-family: "Montserrat";
   font-size: 3.5rem;
   line-height: 1.5;
+}
+
+.section-heading {
+    font-size: 3.5rem;
+    line-height: 1.5;
 }
 
 /*Navigation Bar*/
@@ -108,6 +107,11 @@ p {
     text-align: center;
     background-color: #ef8172;
     color: #fff;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
 }
 
 .testimonial-image{
