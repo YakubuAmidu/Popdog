@@ -145,6 +145,22 @@ p {
     }
 }
 
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.cta-heading {
+    margin-bottom: 50px;
+    color: #fff;
+    font-family: "Montserrat";
+}
+
+.btn-download {
+    
+}
+
 
 
 
