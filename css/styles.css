@@ -12,8 +12,7 @@ body {
 }
 
 h1 {
-  font-family: "Monterrat-Black";
-  font-weight: 900;
+  font-family: "Montserrat";
   font-size: 3.5rem;
   line-height: 1.5;
 }
@@ -150,6 +149,10 @@ p {
 #footer {
     padding: 7% 15%;
     text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
 }
 
 @media (max-width: 1028px) {
