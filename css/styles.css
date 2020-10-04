@@ -134,6 +134,11 @@ p {
     padding: 3% 2%;
 }
 
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
 @media (max-width: 1028px) {
     #title {
         text-align: center;
@@ -143,35 +148,6 @@ p {
         position: static;
         transform: rotate(0);
     }
-}
-
-#cta {
-    background-color: #ff4c68;
-    text-align: center;
-    padding: 7% 15%;
-}
-
-.cta-heading {
-    margin-bottom: 50px;
-    color: #fff;
-    font-family: "Montserrat";
-}
-
-.btn-download {
-    margin: 5%;
-}
-
-#footer {
-    text-align: center;
-}
-
-.social {
-    margin-top: 50px;
-    margin-bottom: 20px;
-}
-
-.copy {
-    padding-bottom: 50px;
 }
 
 
