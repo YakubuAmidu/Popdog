@@ -161,6 +161,18 @@ p {
     margin: 5%;
 }
 
+#footer {
+    text-align: center;
+}
+
+.social {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.copy {
+    padding-bottom: 50px;
+}
 
 
 
